@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Azaarudeen/Azaarudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PROJECT TECHNOLOGY- ARTIFICIAL INTELLIGENCE
+PROJECT NAME: FAKE NEWS DETECTION USING NLP TECHNIQUES
+STEPS TO RUN THE CODE:
+step 1: open python idle
+step 2: create seperate folder and a file with .py extension.
+step 3: install necessary libraries such as pandas, seaborn, scikit-learn, matplotlib, word cloud, nltk, mlxtend in the local system.
+step 4: Download the dataset from kaggle: "https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset" and extract in the same folder.
+step 5:import necessary libraries such as pandas, seaborn, scikit-learn, matplotlib, word cloud, nltk, mlxtend.
+step 6: execute the final project code to see the output mentioned in the project documentation
+step 7: To get the output, it may take more than 5 minutes.
